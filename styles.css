@@ -1,7 +1,7 @@
 
 
 .navbar {
-    background-color: #f5fac1 ;
+    background-color: #fbf3ef ;
     padding: 2rem;
 }
 
@@ -11,7 +11,42 @@
 }
 
 main {
-    background-color: #d0bdf6;
+    background-color: #fff;
 }
 
+.hero {
+    min-height: 450px;
+    text-align: center;
+}
+
+.hero-principal {
+    padding: 3rem;
+}
+
+.hero-imagen {
+    width: 40%;
+    height: 40%;
+    margin: 20px;
+    border-radius: 50%;
+
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tittle {
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    color: #E42588;
+    font-weight: 800;
+}
+
+.subtittle {
+    color: #6e24a5;
+    font-weight: 100;
+}
 
