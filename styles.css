@@ -1,0 +1,17 @@
+
+
+.navbar {
+    background-color: #f5fac1 ;
+    padding: 2rem;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+main {
+    background-color: #d0bdf6;
+}
+
+
