@@ -24,11 +24,10 @@ main {
 }
 
 .hero-imagen {
-    width: 40%;
-    height: 40%;
+    width: 25%;
+    height: 25%;
     margin: 20px;
     border-radius: 50%;
-
 }
 
 section {
@@ -41,14 +40,22 @@ section {
 .tittle {
     font-size: 2.5rem;
     font-family: sans-serif;
-    color: #E42588;
+    color: #6e24a5;
     font-weight: 800;
     font-family: 'Work Sans', sans-serif;
 }
 
 .subtittle {
-    color: #6e24a5;
+    color: #000000;
     font-weight: 100;
     font-family: 'PT Sans', sans-serif;
 }
 
+/* (Responsive) */
+
+
+@media screen and (min-width: 700px) {
+       .hero-infer-img {
+           max-width: 600px;
+        }
+}
