@@ -51,6 +51,45 @@ section {
     font-family: 'PT Sans', sans-serif;
 }
 
+.section-dark {
+    background-color: #1b1b32;
+    color: #fff;
+}
+
+.about-me {
+    height: 500px;
+    padding: 10px;
+}
+
+.about-me .contain {
+    max-width: 600px;
+    text-align: center;
+}
+
+.section-tittle {
+    font-size: 2rem;
+    padding: 15px 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.section-text {
+    font-size: 1.2rem;
+}
+
+.experience {
+    padding: 40px;
+}
+
+.experience .row div {
+    height: 250px;
+    background-color: aliceblue;
+}
+
+.section-white {
+    background-color: white;
+    color: #000000;
+}
+
 /* (Responsive) */
 
 
