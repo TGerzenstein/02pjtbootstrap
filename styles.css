@@ -92,8 +92,13 @@ section {
 }
 
 .badges-cont {
-    font-size: 25px;
+    font-size: 20px;
     margin: 10px 0px;
+    font-weight: bold;
+}
+
+.badge {
+    margin: 5px;
 }
 
 /* (Responsive) */
