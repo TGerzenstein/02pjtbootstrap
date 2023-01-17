@@ -77,17 +77,23 @@ section {
 }
 
 .experience {
-    padding: 40px;
+    padding: 40px 40px 60px 40px;
 }
 
-.experience .row div {
-    height: 250px;
-    background-color: aliceblue;
-}
 
 .section-white {
     background-color: white;
     color: #000000;
+}
+
+.experience-tittle {
+    font-size: 25px;
+    margin: 10px 0px;
+}
+
+.badges-cont {
+    font-size: 25px;
+    margin: 10px 0px;
 }
 
 /* (Responsive) */
