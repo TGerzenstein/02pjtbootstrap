@@ -76,6 +76,14 @@ section {
     font-size: 1.2rem;
 }
 
+.experience i {
+    font-size: 2rem;
+    color: white;
+    background-color: #000000;
+    padding: 8px 19px;
+    border-radius: 50%;
+}
+
 .experience {
     padding: 40px 40px 60px 40px;
 }
