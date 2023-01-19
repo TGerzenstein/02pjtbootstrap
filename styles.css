@@ -119,6 +119,21 @@ section {
     margin: 5px;
 }
 
+.text-black {
+   color: #000000;
+}
+
+.text-white {
+   color: #fff;
+}
+
+/* Projects */
+
+.projects {
+    padding: 40px;
+}
+
+
 /* (Responsive) */
 
 
