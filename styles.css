@@ -185,7 +185,13 @@ section {
 .proj-01:hover .overlay {
     opacity: 1;
 }
+/* Button */
 
+.btn-info {
+    font-size: 1.1rem;
+    margin: 20px;
+    font-weight: bold;
+}
 
 /* (Responsive) */
 
@@ -194,4 +200,14 @@ section {
        .hero-infer-img {
            max-width: 600px;
         }
+}
+
+@media screen and (max-width: 400px) {
+    .overlay p {
+        font-size: 18px;
+    }
+
+    .overlay i {
+        font-size: 40px;
+    }
 }
