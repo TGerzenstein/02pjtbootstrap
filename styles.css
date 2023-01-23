@@ -164,6 +164,20 @@ section {
     margin-bottom: 0px;
 }
 
+.overlay .icons-container {
+    display: flex;
+}
+
+.overlay i {
+    color: #000000;
+    font-size: 60px;
+    margin: 10px;
+} 
+
+.proj-01 {
+    position: relative;
+}
+
 .proj-01:hover img {
     opacity: 0.2;
 }
