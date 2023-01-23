@@ -143,6 +143,36 @@ section {
     transition: all 0.2s ease;
 }
 
+.prj-container {
+    padding-top: 60px;
+    margin-bottom: 40px;
+}
+
+.overlay {
+    transition: all 0.2s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.overlay p {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.proj-01:hover img {
+    opacity: 0.2;
+}
+
+.proj-01:hover .overlay {
+    opacity: 1;
+}
+
+
 /* (Responsive) */
 
 
