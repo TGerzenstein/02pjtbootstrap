@@ -341,6 +341,12 @@ section {
     color: #000;
 }
 
+.copyright {
+    font-size: 15px;
+    color: #aeaeae;
+    padding: 20px;
+}
+
 /* (Responsive) */
 
 @media screen and (min-width: 700px) {
