@@ -301,6 +301,11 @@ section {
     transition: all 0.2s ease-in-out;
 }
 
+.contact button:hover {
+    background-color: white;
+    color: rgb(13,110,253)
+}
+
 /* (Responsive) */
 
 @media screen and (min-width: 700px) {
